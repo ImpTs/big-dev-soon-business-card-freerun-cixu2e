@@ -17,3 +17,30 @@
 .footer span {
   font-size: 14px;
 }
+body {
+  background-color:beige;
+
+}
+.card{
+  width:80%;
+  border-radius: 20px;
+  background-color:white;
+  box-shadow: 5px 5px 5px gray;
+  aspect-ratio: 16 / 9 ;
+  margin:auto;
+  margin-top:10%;
+}
+
+.left-margin{
+  width:20%;
+  background-color:cyan;
+  height:100%;
+  border-top-left-radius:20px;
+  border-bottom-left-radius:20px;
+
+}
+
+.card-body{
+  width:80%;
+
+}
