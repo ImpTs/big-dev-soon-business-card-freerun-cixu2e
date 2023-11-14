@@ -37,10 +37,17 @@ body {
   height:100%;
   border-top-left-radius:20px;
   border-bottom-left-radius:20px;
-
+  display:flex;
+  flex-direction:column;
+  justify-content: flex-end;
+}
+.left-margin > div > p, a {
+  font-size:.6rem;
+  color:white;
 }
 
 .card-body{
   width:80%;
 
 }
+
